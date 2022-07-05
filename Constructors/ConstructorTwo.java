@@ -15,7 +15,7 @@ class Parent {
 
 	}
 
-public class ConstructorTwo extends Parent{
+public static class ConstructorTwo extends Parent{
 
 	 ConstructorTwo() {
 		super(10,20);
@@ -35,4 +35,5 @@ public class ConstructorTwo extends Parent{
 
 	}
 
+}
 }

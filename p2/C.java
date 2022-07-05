@@ -8,9 +8,9 @@ public class C extends A {
 		
 		C obj = new C();
 		System.out.println(obj.a);
-		System.out.println(obj.b);
+		//System.out.println(obj.b);
 		System.out.println(obj.c);
-		System.out.println(obj.d);
+		//System.out.println(obj.d);
 
 	}
 

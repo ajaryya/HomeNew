@@ -1,0 +1,10 @@
+package Strings;
+
+public class StringDuplicate {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
